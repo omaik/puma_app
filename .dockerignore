@@ -1,0 +1,7 @@
+.DS_Store
+public/uploads/
+frontend/node_modules/
+tmp/
+log/
+.git/
+vendor/bundle
